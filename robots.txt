@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://proyectos-hogarsalud.github.io/reference-2xzadd/sitemap.xml
